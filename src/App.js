@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn NPM. Hello World on Thursday main app
+          Learn React. Hello World on Thursday main app
         </a>
       </header>
     </div>
